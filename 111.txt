@@ -1,0 +1,10 @@
+<html>
+<head>
+<script type="text/vbscript">
+alert("VBScript in the head section")
+document.write ("Scripts placed in the head section are executed when they are called.")
+</script>
+</head>
+<body>
+</body>
+</html>
